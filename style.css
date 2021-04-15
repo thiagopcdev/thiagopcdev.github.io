@@ -1,0 +1,49 @@
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.descrip{
+
+    font-family: monospace;
+}
+body{
+    background-color:cornsilk;
+}
+#from{
+
+    font-style:normal;
+    font-weight: 550;
+}
+
+.hab-list{
+    font-size: 17px;
+}
+
+.prof-pic{
+    border-radius: 10%;
+}
+.border-h1{
+    background-color: goldenrod;
+    padding-left: 1%;
+    padding: 10px;
+    font-weight: 600;
+    
+}
+.border-links{
+    background-color: rgb(253, 222, 144);
+    padding: 15px 30px;
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
+    border-style:double;
+}
+.buttom{
+    background-color: rgb(253, 222, 144);
+    padding: 15px 100px;
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
+    border-style:double;
+}
